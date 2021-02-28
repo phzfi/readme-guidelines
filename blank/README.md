@@ -12,9 +12,9 @@
 
 ### 3.3. Migrations
 
-### 3.4. Start the application locally
+### 3.4. Start the application in dev env
 
-### 3.5. Access the application locally
+### 3.5. Access the application in dev env
 
 ### 3.6. IDE setup
 
