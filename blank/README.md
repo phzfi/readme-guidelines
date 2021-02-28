@@ -1,4 +1,4 @@
-# OrangIT Standard Documentation V1.0.0
+# PHZ Full Stack Standard Documentation V1.0.0
 
 ## 1. Project purpose
 
