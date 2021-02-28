@@ -64,4 +64,4 @@
 
 ## 8. Operating instructions for manual and semi-manual processes
 
-## 9. More useful information, Tips and Tricks
+## 9. Problems
