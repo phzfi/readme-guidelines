@@ -4,6 +4,10 @@
 
 ## 2. Architecture
 
+### 2.1 Technologies
+
+### 2.2 Naming, Terms and Key Concepts
+
 ## 3. Development environment
 
 ### 3.1. Prerequisites, and what to do first
@@ -22,7 +26,7 @@
 
 ### 3...
 
-## 4. Test environment
+## 4. Staging environment
 
 ### 4.1. Access
 
@@ -60,8 +64,10 @@
 
 ## 6. Continuous integration
 
-## 7. Code style
+## 7. Coding Convention
 
 ## 8. Operating instructions for manual and semi-manual processes
+
+### 8.1 Scheduled Jobs
 
 ## 9. Problems
