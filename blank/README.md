@@ -10,6 +10,8 @@
 
 ### 1.4. Use Cases
 
+### 1.5. Non-Functional Requirements
+
 ## 2. Architecture
 
 ### 2.1. Technologies
