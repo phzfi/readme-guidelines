@@ -4,9 +4,13 @@
 
 ## 2. Architecture
 
-### 2.1 Technologies
+### 2.1. Technologies
 
-### 2.2 Naming, Terms and Key Concepts
+### 2.2. Naming, Terms and Key Concepts
+
+### 2.3. Personas
+
+### 2.4. Use Cases
 
 ## 3. Development environment
 
