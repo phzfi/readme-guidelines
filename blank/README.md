@@ -74,10 +74,10 @@
 
 ### 5.6. Monitoring
 
-## 7. Operating Instructions
+## 6. Operating Manual
 
-### 7.1 Scheduled Jobs
+### 6.1 Scheduled Jobs
 
-### 7.2 Manual Processes
+### 6.2 Manual Processes
 
-## 8. Problems
+## 7. Problems
