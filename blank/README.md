@@ -12,33 +12,33 @@
 
 ### 2.4. Use Cases
 
-## 3. Development environment
+## 3. Development Environment
 
 ### 3.1. Prerequisites, and what to do first
 
-### 3.2. Start the application in dev env
+### 3.2. Start the Application
 
-### 3.3. Access the application in dev env
+### 3.3. Access the Application
 
-### 3.4. Run tests
+### 3.4. Run Tests
 
-### 3.5. IDE setup and debugging
+### 3.5. IDE Setup and Debugging
 
-### 3.6. Version control
+### 3.6. Version Control
 
 ### 3.7. Databases and Migrations
 
-## 4. Staging environment
+## 4. Staging Environment
 
 ### 4.1. Access
 
 ### 4.2. Deployment
 
-### 4.3. Verifying that a deployment was successful
+### 4.3. Smoke Tests
 
-#### 4.3.1. Automated test cases
+#### 4.3.1. Automated Test Cases
 
-#### 4.3.2. Manual test cases
+#### 4.3.2. Manual Test Cases
 
 ### 4.4. Rollback
 
@@ -46,17 +46,17 @@
 
 ### 4.6. Monitoring
 
-## 5. Production environment
+## 5. Production Environment
 
 ### 5.1. Access
 
 ### 5.2. Deployment
 
-### 5.3. Verifying that a deployment was successful
+### 5.3. Smoke Tests
 
-#### 5.3.1. Automated test cases
+#### 5.3.1. Automated Test Cases
 
-#### 5.3.2. Manual test cases
+#### 5.3.2. Manual Test Cases
 
 ### 5.4. Rollback
 
@@ -64,12 +64,14 @@
 
 ### 5.6. Monitoring
 
-## 6. Continuous integration
+## 6. Continuous Integration
 
 ## 7. Coding Convention
 
-## 8. Operating instructions for manual and semi-manual processes
+## 8. Operating Instructions
 
 ### 8.1 Scheduled Jobs
+
+### 8.2 Manual Processes
 
 ## 9. Problems
