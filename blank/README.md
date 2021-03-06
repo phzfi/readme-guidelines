@@ -1,4 +1,4 @@
-# PHZ Full Stack Standard Documentation V1.0.0
+# PHZ Full Stack Standard Documentation V1.0.3
 
 ## 1. Project purpose
 
@@ -12,19 +12,17 @@
 
 ### 3.1. Prerequisites, and what to do first
 
-### 3.2. Run tests
+### 3.2. Start the application in dev env
 
-### 3.3. Migrations
+### 3.3. Access the application in dev env
 
-### 3.4. Start the application in dev env
+### 3.4. Run tests
 
-### 3.5. Access the application in dev env
+### 3.5. IDE setup
 
-### 3.6. IDE setup
+### 3.6. Version control
 
-### 3.7. Version control
-
-### 3...
+### 3.7. Databases and Migrations
 
 ## 4. Staging environment
 
