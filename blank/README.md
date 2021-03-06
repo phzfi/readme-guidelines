@@ -18,6 +18,8 @@
 
 ### 2.2. Naming, Terms and Key Concepts
 
+### 2.3. Coding Convention
+
 ## 3. Development Environment
 
 ### 3.1. Prerequisites
@@ -33,6 +35,8 @@
 ### 3.6. Version Control
 
 ### 3.7. Databases and Migrations
+
+### 3.8. Continuous Integration
 
 ## 4. Staging Environment
 
@@ -70,14 +74,10 @@
 
 ### 5.6. Monitoring
 
-## 6. Continuous Integration
+## 7. Operating Instructions
 
-## 7. Coding Convention
+### 7.1 Scheduled Jobs
 
-## 8. Operating Instructions
+### 7.2 Manual Processes
 
-### 8.1 Scheduled Jobs
-
-### 8.2 Manual Processes
-
-## 9. Problems
+## 8. Problems
