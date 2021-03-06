@@ -1,6 +1,14 @@
 # PHZ Full Stack Standard Documentation V1.0.3
 
-## 1. Project purpose
+## 1. Project Description
+
+### 1.1. Business Vision
+
+### 1.2. Task Management
+
+### 1.3. Personas
+
+### 1.4. Use Cases
 
 ## 2. Architecture
 
