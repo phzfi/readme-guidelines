@@ -22,7 +22,7 @@
 
 ### 3.4. Run tests
 
-### 3.5. IDE setup
+### 3.5. IDE setup and debugging
 
 ### 3.6. Version control
 
