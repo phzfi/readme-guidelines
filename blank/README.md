@@ -14,7 +14,7 @@
 
 ## 3. Development Environment
 
-### 3.1. Prerequisites, and what to do first
+### 3.1. Prerequisites
 
 ### 3.2. Start the Application
 
